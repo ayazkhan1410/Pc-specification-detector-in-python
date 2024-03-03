@@ -1,6 +1,3 @@
-Certainly! Here's a README file you can use for your GitHub repo based on the provided code:
-
----
 
 # PC Specification Detector
 
